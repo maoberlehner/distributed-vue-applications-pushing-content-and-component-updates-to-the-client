@@ -23,7 +23,8 @@
     "reset-css": "^4.0.1",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "ws": "^6.2.1"
   },
   "devDependencies": {
     "@avalanche/eslint-config": "^3.0.0",

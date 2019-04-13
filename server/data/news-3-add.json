@@ -1,0 +1,12 @@
+{
+  "component": {
+    "name": "NewsPreviewSimple",
+    "url": "http://asdf"
+  },
+  "data": {
+    "content": "Lorem Ipsum",
+    "date": "Sunday, 14. April 2019",
+    "headline": "Lorem Ipsum",
+    "id": 3
+  }
+}
