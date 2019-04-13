@@ -1,9 +1,9 @@
-# Distributed Vue.js Applications Part 1: Loading Components via HTTP
+# Distributed Vue.js Applications Part 2: Pushing Content and Component Updates to the Client
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-blue.svg)](https://www.patreon.com/maoberlehner)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/maoberlehner)
 
-This is an example project for the following article: [Distributed Vue.js Applications Part 1: Loading Components via HTTP](https://markus.oberlehner.net/blog/distributed-vue-applications-loading-components-via-http/)
+This is an example project for the following article: [Distributed Vue.js Applications Part 2: Pushing Content and Component Updates to the Client](https://markus.oberlehner.net/blog/distributed-vue-applications-pushing-content-and-component-updates-to-the-client/)
 
 ## Build Setup
 

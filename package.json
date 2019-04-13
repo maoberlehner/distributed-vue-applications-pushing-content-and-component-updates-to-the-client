@@ -1,8 +1,8 @@
 {
-  "name": "distributed-vue-applications-loading-components-via-http",
+  "name": "distributed-vue-applications-pushing-content-and-component-updates-to-the-client",
   "version": "0.1.0",
   "author": "Markus Oberlehner",
-  "homepage": "https://github.com/maoberlehner/distributed-vue-applications-loading-components-via-http",
+  "homepage": "https://github.com/maoberlehner/distributed-vue-applications-pushing-content-and-component-updates-to-the-client",
   "license": "MIT",
   "private": true,
   "scripts": {

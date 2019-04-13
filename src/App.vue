@@ -3,7 +3,9 @@
     class="o-container o-container--s o-vertical-spacing o-vertical-spacing--xl"
     :class="$style.main"
   >
-    <h1>Distributed Vue.js Applications Part 1: Loading Components via HTTP</h1>
+    <h1>
+      Distributed Vue.js Applications Part 2: Pushing Content and Component Updates to the Client
+    </h1>
     <MyComponent/>
   </div>
 </template>
