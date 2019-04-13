@@ -1,0 +1,33 @@
+[
+  {
+    "component": {
+      "name": "NewsPreviewFancy",
+      "url": "http://asdf"
+    },
+    "data": {
+      "content": "LLLLLLLLLLLLLLLLLL",
+      "date": "Saturday, 13. April 2019",
+      "headline": "Dolor sit",
+      "id": 2,
+      "img": {
+        "alt": "",
+        "dominantColor": "#fff",
+        "height": 200,
+        "width": 300,
+        "url": "http://asdf"
+      }
+    }
+  },
+  {
+    "component": {
+      "name": "NewsPreviewSimple",
+      "url": "http://asdf"
+    },
+    "data": {
+      "content": "Lorem Ipsum",
+      "date": "Friday, 12. April 2019",
+      "headline": "Lorem Ipsum",
+      "id": 1
+    }
+  }
+]
