@@ -1,12 +1,12 @@
 {
   "component": {
     "name": "NewsPreviewSimple",
-    "url": "http://asdf"
+    "url": "http://localhost:8200/NewsPreviewSimple/NewsPreviewSimple.f0b9e3b963a9a0d79dea.umd.min.js"
   },
   "data": {
-    "content": "Lorem Ipsum",
+    "content": "Sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
     "date": "Sunday, 14. April 2019",
-    "headline": "Lorem Ipsum",
+    "headline": "Sed Diam Nonumy",
     "id": 3
   }
 }

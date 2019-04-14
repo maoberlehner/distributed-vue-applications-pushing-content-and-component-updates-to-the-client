@@ -4,8 +4,8 @@ const webSocket = require(`ws`);
 const http = require(`http`);
 
 const news = require(`./data/news.json`);
+const news1Update = require(`./data/news-1-update.json`);
 const news3add = require(`./data/news-3-add.json`);
-const news1Update = require(`./data/news-1-update`);
 
 const PORT = 8200;
 
