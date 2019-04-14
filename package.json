@@ -17,6 +17,7 @@
     "@avalanche/setting-spacings": "^4.0.0-alpha.6",
     "@vue/cli-plugin-babel": "^3.5.5",
     "@vue/cli-service": "^3.5.3",
+    "axios": "^0.18.0",
     "express": "^4.16.4",
     "node-sass": "^4.11.0",
     "node-sass-magic-importer": "^5.3.1",

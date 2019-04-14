@@ -6,19 +6,17 @@
     <h1>
       Distributed Vue.js Applications Part 2: Pushing Content and Component Updates to the Client
     </h1>
-    <MyComponent/>
+    <NewsFeed/>
   </div>
 </template>
 
 <script>
-import externalComponent from './utils/external-component';
-
-const MyComponent = () => externalComponent(`http://localhost:8200/MyComponent/MyComponent.c9c0abb8e999d0e5654e.umd.min.js`);
+import NewsFeed from './NewsFeed.vue';
 
 export default {
   name: `App`,
   components: {
-    MyComponent,
+    NewsFeed,
   },
 };
 </script>
