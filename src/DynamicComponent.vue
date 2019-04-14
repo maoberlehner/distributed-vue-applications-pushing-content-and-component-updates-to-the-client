@@ -31,7 +31,10 @@ export default {
       handler(newComponent, prevComponent = ``) {
         if (newComponent.url === prevComponent.url) return;
 
-        this.computedComponent = () => externalComponent(this.component.url);
+        // this.computedComponent = () => externalComponent(this.component.url);
+        // Mock implementation for easier deployment.
+        const mockUrl = this.component.url.replace(`http://localhost:8200`, `/components`);
+        this.computedComponent = () => externalComponent(mockUrl);
       },
     },
   },

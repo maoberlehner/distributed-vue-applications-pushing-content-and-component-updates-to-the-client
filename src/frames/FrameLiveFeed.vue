@@ -1,6 +1,7 @@
 <script>
-import axios from 'axios';
+// import axios from 'axios';
 
+import news from '../../server/data/news.json';
 import ws from '../utils/ws';
 
 export default {
@@ -38,8 +39,10 @@ export default {
       });
     },
     async fetch() {
-      const { data } = await axios.get(this.endpoint);
-      this.entities = data;
+      // const { data } = await axios.get(this.endpoint);
+      // this.entities = data;
+      // Mock implementation for easier deployment.
+      this.entities = news;
     },
   },
   render() {
